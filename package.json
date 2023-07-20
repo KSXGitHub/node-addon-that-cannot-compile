@@ -1,6 +1,6 @@
 {
   "name": "node_addon_that_cannot_compile",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Node.js addon that fails to compile",
   "main": "index.js",
   "private": true,

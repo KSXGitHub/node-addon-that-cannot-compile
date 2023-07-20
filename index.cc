@@ -22,5 +22,7 @@ namespace demo
     NODE_SET_METHOD(exports, "hello", Method);
   }
 
+  #error intentionally cause build to fail
+
   NODE_MODULE(NODE_GYP_MODULE_NAME, Initialize)
 }
